@@ -17,6 +17,7 @@ h3 {
 }
 
 .date {
+  clear: both;
   width: 17%;
   padding: 15% 1% 0 0;
   float: left;
